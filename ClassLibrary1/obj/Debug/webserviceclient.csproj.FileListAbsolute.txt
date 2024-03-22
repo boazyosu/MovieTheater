@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Solution1\ClassLibrary1\obj\Debug\webserviceclient.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Solution1\ClassLibrary1\obj\Debug\webserviceclient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Solution1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Solution1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\source\repos\Solution1\ClassLibrary1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\source\repos\Solution1\ClassLibrary1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\Solution1\ClassLibrary1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\source\repos\Solution1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Solution1\ClassLibrary1\obj\Debug\webserviceclient.csproj.CopyComplete
+C:\Users\User\source\repos\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Solution1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
